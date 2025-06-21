@@ -187,15 +187,10 @@ footer {
 }
 
 @media (max-width: 768px) {
-  .main-content {
-    flex-direction: column;
-  }
-
   .profile-img {
     width: 100px;
     height: 100px;
   }
-
   .top h1 {
     font-size: 1.5rem;
   }
