@@ -3,8 +3,7 @@
 Welcome to my personal cv website, built with HTML and CSS, showcasing my background, skills, and experiences in the field
 
 ## 🌐 Live Demo
-[View Website](https://yourusername.github.io/your-repo-name/)  
-*(Replace with your actual GitHub Pages link)*
+[View Website](https://desmondsua.github.io/cvwebsite/)  
 
 ## 📄 About
 This website is a digital representation of my resume. It features:
