@@ -12,7 +12,7 @@ body {
 }
 
 .top {
-  background: url('img/bg.jpg');
+  background: url('img/bg.jpg') no-repeat center center/cover;
   text-align: center;
   padding: 100px 20px 60px;
   color: white;
